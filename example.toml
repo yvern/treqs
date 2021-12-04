@@ -1,0 +1,6 @@
+url = "httpbin.org/post"
+method = "POST"
+
+[body]
+name = "person"
+age = 30

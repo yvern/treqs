@@ -1,0 +1,19 @@
+name: treqs
+version: 0.1.0
+
+authors:
+  - yvern <ywern@protonmail.ch>
+  - frankkair <frankkair@gmail.com>
+
+targets:
+  treqs:
+    main: src/treqs.cr
+
+crystal: 1.2.2
+
+license: MIT
+
+dependencies:
+  toml:
+    github: crystal-community/toml.cr
+    branch: master
